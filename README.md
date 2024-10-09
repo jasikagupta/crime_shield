@@ -12,7 +12,6 @@ Crime Shield is an online FIR management system that allows users to file First 
 - [Setup and Installation](#setup-and-installation)
 - [Usage](#usage)
 - [Database Schema](#database-schema)
-- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -87,13 +86,6 @@ The system uses MySQL to manage data, with key tables including:
 - **officers**: Stores data of police officers to whom FIRs can be assigned.
 - **case_status**: Tracks the status of ongoing, open, or closed cases.
 
-## Screenshots
-
-![Home Page](screenshots/home_page.png)
-*Home page with user options for reporting or accessing admin portal.*
-
-![Admin Dashboard](screenshots/admin_dashboard.png)
-*Admin dashboard where officers can manage FIR cases.*
 
 ## Contributing
 
